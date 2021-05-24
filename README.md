@@ -1,5 +1,11 @@
-# indie-studio-ressources
+# Indie-studio-ressources
 
-Normalement si tu vois ça alors...
+Les ressources nécessaire pour notre indie studio.
 
-C'est que ça fonctionne très bien !!!
+## Utilisation
+
+Faire un tar.gz :
+```sh
+tar zcvf resources.tar.gz resources
+```
+Mettre le resources.tar.gz sur le serveur en SFTP
