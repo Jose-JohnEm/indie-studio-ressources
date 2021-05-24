@@ -1,2 +1,4 @@
 tarer.sh
-*.tar.gz
+last.log.tar.gz
+resources.tar.gz
+last.log
