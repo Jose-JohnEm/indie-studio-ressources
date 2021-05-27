@@ -1,7 +1,7 @@
 # Indie-studio-ressources
 
-Les ressources nécessaire pour notre indie studio.
+The resources needed for our indie studio.
 
-## Utilisation
+## How to push (Only is you have the right)
 
-> Utilser le script qui se trouve sur le groupe discord
+> You need to use the tarer.sh script, it will do the push and also send the generate tar to the server.
